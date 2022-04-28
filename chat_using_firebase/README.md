@@ -14,7 +14,7 @@ For iOS, You need to put the GoogleService-Info.plist produced by your firebase 
 
 ## Reference  
 
-- [Flutter 앱에 Firebase 추가](https://firebase.google.com/docs/flutter/setup?platform=android)
+- [Add Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup?platform=android)
 - [Firebase) 플러터 프로젝트 Firebase(파이어베이스) 연동하기](https://blog.naver.com/bosom2835/222643020648)
 - [cloud_firestore 3.1.13](https://pub.dev/packages/cloud_firestore/install)
 - [유튜브 - 플러터 채팅 앱 만들기, 2022](https://www.youtube.com/playlist?list=PLQt_pzi-LLfrhI7B4mdx17ynreM0UwCzR)
