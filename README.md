@@ -1,6 +1,6 @@
 # Flutter Experiments  
 
-This project contains serveral experiments of using Flutter. To run an experiment, use `flutter run` inside that experiment's folder.  
+This project contains serveral experiments of using Flutter.  
 
 Available experiments include:  
 
