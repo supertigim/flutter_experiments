@@ -5,7 +5,7 @@ This simple experiment shows how to build a firebase based app in Flutter.
 ## Getting Started
 
 For Andoird, You need to put the google-service.json produced by your firebase project in android/app.  
-For iOS, You need to put the GoogleService-Info.plist produced by your firebase project in ios/Runner.
+For iOS, You need to put the GoogleService-Info.plist produced by your firebase project in ios/Runner `uing Xcode`.
 
 ```bash  
     % flutter packages get  
