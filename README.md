@@ -4,7 +4,8 @@ This project contains serveral experiments of using Flutter.
 
 Available experiments include:  
 
-- chat_using_firebase  
+- Chat using Firebase  
+- PacMan (2D Simple Game)  
 
 ## Reference  
 

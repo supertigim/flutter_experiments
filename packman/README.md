@@ -1,4 +1,4 @@
-# PacMan Game
+# PacMan (2D Game)  
 
 This is a clone project from [this youtube](https://www.youtube.com/watch?v=PbIlXoijRvM).  
 This project has been tested on both iOS and Android.  
