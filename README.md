@@ -6,6 +6,7 @@ Available experiments include:
 
 - Chat using Firebase  
 - PacMan (2D Simple Game)  
+- Multiplayer Rayworld (2D Online Game)
 
 ## Reference  
 
