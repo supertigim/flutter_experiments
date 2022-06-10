@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import select, socket
-#from collections import deque
+import rayworld_pb2
 
 # Config 
 RECV_BUF_SIZE = 4096
@@ -24,6 +24,14 @@ def broadcast_data (message, cur_sock = None): # including me
 
     for conn in filter(lambda x: x not in exclusion, inputs):
         try :
+            
+            world_state = rayworld_pb2.WorldState()
+            world_state.ParseFromString(message)
+            print(world_state)
+
+            #print(message)
+            #print('length: ', len(message))
+            
             conn.send(message)
         except :
             # broken socket connection may be, chat client pressed ctrl+c for example

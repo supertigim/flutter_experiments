@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package rayworld_protocol;
+
+message PlayerState {
+  optional int64 tick = 1;
+  optional string name = 2;
+  optional int32 id = 3;
+  
+  message Position {
+    optional int32 direction = 1;
+    optional float x = 2; 
+    optional float y = 3;
+  }
+
+  Position pos = 4;
+}
+
+message WorldState {
+  repeated PlayerState players = 1;
+}

@@ -67,6 +67,7 @@ class RayWorldGame extends FlameGame
   }
 
   void addWorldCollision() async =>
+      // ignore: avoid_function_literals_in_foreach_calls
       (await MapLoader.readRayWorldCollisionMap()).forEach((rect) {
         add(WorldCollidable()
           ..position = Vector2(rect.left, rect.top)
