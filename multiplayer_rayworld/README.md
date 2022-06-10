@@ -52,7 +52,7 @@ Google protobuf is applied to this project. In protocols folder, you can check t
 - [Enum from String](https://stackoverflow.com/questions/27673781/enum-from-string)  
 - [Working with Sockets in Dart](https://medium.com/flutter-community/working-with-sockets-in-dart-15b443007bc9#:~:text=replace%20bin%2Fsocket_client.-,dart%20with%20the%20following%20code%3A,to%20convert%20it%20to%20one.)  
 - [macOS emulator에서 tcp 연결 문제 해결 - com.apple.security.network.client 를 entitlement에 추가해야 함](https://docs.flutter.dev/desktop/macos)  
-- [protobuf 맥북 설치]](http://daplus.net/protocol-buffers-mac%EC%97%90-google-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EB%B2%84%ED%8D%BC-%EC%84%A4%EC%B9%98/)
+- [protobuf 맥북 설치](http://daplus.net/protocol-buffers-mac%EC%97%90-google-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EB%B2%84%ED%8D%BC-%EC%84%A4%EC%B9%98/)
 - [protobuf for Dart](https://developers.google.com/protocol-buffers/docs/darttutorial)  
 - [EPOC time in miliseconds](https://www.geeksforgeeks.org/get-current-time-in-milliseconds-using-python/)  
 - [protobuf for Dart](https://github.com/google/protobuf.dart/tree/master/protoc_plugin)
